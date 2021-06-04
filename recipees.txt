@@ -1,7 +1,1 @@
-welcome to github
-kheer
-pasta
-chicken fry
-beans
-idli
-thank you.))
+print("welcome to git hub)
